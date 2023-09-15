@@ -1,5 +1,5 @@
 Name: GTUnlock
-Version: 1.1.0
+Version: 1.3.0
 Build Version: 1.1.0.10.5
 Build: Stable - Minimal errors
 thanks for using this program :)
