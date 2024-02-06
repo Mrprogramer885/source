@@ -4,7 +4,7 @@ Xtool:
   installedSize: 78 Mb
   creator: @PetrVrba03
   latestVersion: 1.1.5
-  dependencies: python3, python-pip
+  dependencies: python3, python-pip, zshlib,
   website: https://github.com/Mrprogramer885/Xtool
   packages:
     phonenumbers: 8.12.7
