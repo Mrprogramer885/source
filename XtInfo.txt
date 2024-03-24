@@ -2,8 +2,9 @@ Xtool:
   name: Xtool
   ProgramSize: 50 Kb
   installedSize: 78 Mb
-  creator: @PetrVrba03
+  creator: @PetrVrba03 (github: mrprogramer885)
   latestVersion: 1.1.5
+  description: Xtool is a python OSINT framework used for IP, Phone and username search.
   dependencies: python3, python-pip, zshlib,
   website: https://github.com/Mrprogramer885/Xtool
   packages:
